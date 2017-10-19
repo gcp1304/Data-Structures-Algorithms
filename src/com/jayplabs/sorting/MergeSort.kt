@@ -30,7 +30,7 @@ fun merge(arr: IntArray, l: Int, m: Int, r: Int) {
     while (y < rSize) arr[z++] = right[y++]
 }
 
-fun sort(arr: IntArray, l: Int, r: Int) {
+private fun sort(arr: IntArray, l: Int, r: Int) {
     if (l < r) {
         val m = (l + r + 1) / 2
         sort(arr, l, m - 1)

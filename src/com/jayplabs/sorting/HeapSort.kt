@@ -1,20 +1,21 @@
 package com.jayplabs.sorting
 
-fun sort(arr: IntArray) {
-    var len = arr.size
+private fun sort(arr: IntArray) {
+    val len = arr.size
 
     // start with first internal node = len/2-1
     // Build heap (rearrange array)
-    ((len/2-1)..0).forEach { i: Int -> heapify(arr, len, i) }
+    for (i in len/2-1 downTo 0) {
+        heapify(arr, len, i)
+    }
 
     // One by one extract an element from heap
-    (len-1..0).forEach { i: Int ->
+    for (i in len-1 downTo 0) {
         // Move current root to end
         swap(arr, 0, i)
         // One by one extract an element from heap
         heapify(arr, i, 0)
     }
-
 }
 
 // To heapify a subtree rooted with node start which is
@@ -38,7 +39,7 @@ fun heapify(arr: IntArray, size: Int, start: Int) {
     }
 }
 
-fun swap(arr: IntArray, s: Int, e: Int) {
+private fun swap(arr: IntArray, s: Int, e: Int) {
     val temp = arr[s]
     arr[s] = arr[e]
     arr[e] = temp
@@ -50,7 +51,7 @@ fun main(args: Array<String>) {
     println("Given Array")
     arr.forEach { number: Int -> print("$number ") }
 
-    sort(arr, 0, arr.size - 1)
+    sort(arr)
 
     println("\nSorted array")
     arr.forEach { number: Int -> print("$number ") }
