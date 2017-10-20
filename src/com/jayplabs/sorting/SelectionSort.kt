@@ -15,7 +15,7 @@ private fun selectionSort(arr: IntArray) {
     }
 }
 
-private fun swap(arr: IntArray, s: Int, e: Int) {
+fun swap(arr: IntArray, s: Int, e: Int) {
     val temp = arr[s]
     arr[s] = arr[e]
     arr[e] = temp

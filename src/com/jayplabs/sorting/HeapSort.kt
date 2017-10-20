@@ -20,7 +20,7 @@ private fun sort(arr: IntArray) {
 
 // To heapify a subtree rooted with node start which is
 // an index in arr[]. size is size of heap
-fun heapify(arr: IntArray, size: Int, start: Int) {
+private fun heapify(arr: IntArray, size: Int, start: Int) {
 
     var largest = start         // Initialize largest as root
     val left = 2 * start + 1
@@ -39,11 +39,11 @@ fun heapify(arr: IntArray, size: Int, start: Int) {
     }
 }
 
-private fun swap(arr: IntArray, s: Int, e: Int) {
+/*fun swap(arr: IntArray, s: Int, e: Int) {
     val temp = arr[s]
     arr[s] = arr[e]
     arr[e] = temp
-}
+}*/
 
 fun main(args: Array<String>) {
     val arr = intArrayOf(1, -5, 7, 3, -2, 4, 6)
