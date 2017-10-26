@@ -1,0 +1,255 @@
+Dynamic Pro­gram­ming
+
+24	Dynamic Pro­gram­ming — Find longest Snake sequence in a given matrix
+23	Max­i­mum dif­fer­ence between two ele­ments where larger ele­ment appears after the smaller ele­ment
+22	Dynamic Pro­gram­ming — Count all paths in 2D Matrix with Obstruc­tions in it
+21	Dynamic Pro­gram­ming — Edit Dis­tance Prob­lem
+20	Dynamic Pro­gram­ming — Coin In a Line Game Prob­lem
+19	Dynamic Pro­gram­ming — Box Stack­ing Prob­lem
+18	Dynamic Pro­gram­ming — Split the String into Min­i­mum num­ber of Palin­dromes
+17	Dynamic Pro­gram­ming — High­way Bill­board Prob­lem
+16	Dynamic Pro­gram­ming — Max­i­mum Sub­ar­ray Prob­lem
+15	Dynamic Pro­gram­ming — Longest Palin­dromic Sub­se­quence
+14	Dynamic Pro­gram­ming — Max­i­mum Prod­uct Cut­ting Prob­lem
+13	Dynamic Pro­gram­ming — Min­i­mum Num­bers are Required Whose Square Sum is Equal To a Given Num­ber
+12	Dynamic Pro­gram­ming — Longest Com­mon Sub­string
+11	Dynamic Pro­gram­ming — Coin Change Prob­lem
+10	Dynamic Pro­gram­ming — Min­i­mum Cost Path Prob­lem
+9	Dynamic Pro­gram­ming — Longest Com­mon Sub­se­quence
+8	Dynamic Pro­gram­ming — Rod Cut­ting Prob­lem
+7	Dynamic Pro­gram­ming —The Word Break Prob­lem
+6	Dynamic Pro­gram­ming — Sub­set Sum Prob­lem
+5	Dynamic Pro­gram­ming — Max­i­mum size square sub-matrix with all 1s
+4	Dynamic Pro­gram­ming — Longest Increas­ing Sub­se­quence
+3	Dynamic Pro­gram­ming — Stairs Climb­ing Puz­zle
+2	Dynamic Pro­gram­ming — Min­i­mum Coin Change Prob­lem
+1	Intro­duc­tion To Dynamic Pro­gram­ming — Fibonacci Series
+
+
+Back­track­ing
+9	The Word Break Prob­lem
+8	Print All The Per­mu­ta­tions Of a String
+7	Knight’s Tour Prob­lem
+6	Search a Word In a Matrix
+5	N Queens Prob­lem — Bet­ter Solu­tion
+4	N Queens Prob­lem
+3	Rat In A Maze Puz­zle
+2	SUDOKU Solver
+1	Intro­duc­tion To Back­track­ing Pro­gram­ming
+
+Threaded Binary Tree
+4	Con­vert Binary Tree into Threaded Binary Tree
+3	Dou­ble Threaded Binary Tree Com­plete Implementation
+2	Sin­gle Threaded Binary Tree Com­plete Implementation
+1	Intro­duc­tion to Threaded Binary Tree
+
+Trees/ Binary Tree/ Binary Search Tree
+72	Con­vert BST to Greater Sum Tree
+71	Get the Sum of all left leaves in a Binary tree
+70	Con­vert binary tree to its Sum tree
+69	Binary Tree-Postorder Tra­ver­sal — Non Recur­sive Approach
+68	Binary Tree — Pre­order Tra­ver­sal — Non Recur­sive Approach
+67	Binary Tree-Inorder Tra­ver­sal — Non Recur­sive Approach
+66	Delete the Binary Tree
+65	Search the Ele­ment in a binary tree — With and With­out Recursion
+64	Tree Tra­ver­sals
+63	Find the Size of a Binary Tree with­out Recursion
+62	Merge K Sorted Arrays
+61	Breadth-First Search/Traversal in a Binary Tree
+60	Diam­e­ter Of a Binary Tree
+59	Pro­vide the Next Sib­lings Point­ers in a Given Binary Tree
+58	Find the Deep­est Left Node in a Binary Tree.
+57	Find the Max ele­ment in a Given Binary Tree
+56	Check If One Binary is Mir­ror Tree of another Binary Tree.
+55	Find If Path Exist in Binary Tree with Sum=X
+54	Reverse Level Order Tra­ver­sal
+53	Find the Deep­est Node in a Binary Tree.
+52	Find the Height of a tree with­out Recur­sion
+51	Print All The Full Nodes in a Binary Tree
+50	Binary Min — Max Heap
+49	Print the Bot­tom View of a Binary Tree
+48	AVL Tree — Inser­tion
+47	Con­struct a binary tree from given Inorder and Level Order Tra­ver­sal
+46	Con­struct Binary Search Tree from a given Pre­order Tra­ver­sal Using Stack (With­out Recur­sion)
+45	Con­struct Binary Search Tree from a given Pre­order Tra­ver­sal using Recur­sion
+44	Print The Top View of a Binary Tree
+43	Con­struct a Binary Tree from Given Inorder and Depth-First-Search.
+42	Depth First Search/Traversal in Binary Tree
+41	Inorder Pre­de­ces­sor and Suc­ces­sor in Binary Search Tree
+40	Print All The Nodes Which are X dis­tance from the Leaf Nodes
+39	Print All The Nodes Which are X dis­tance from the Root
+38	Find the Dis­tance between Two Nodes of a Binary Tree.
+37	Find The Dis­tance From Root To Given Node of a Binary Tree.
+36	Con­struct a binary tree from given Inorder and Pos­torder Tra­ver­sal
+35	Print the Ver­ti­cal Sum in binary Tree .
+34	Print the Binary Tree in Ver­ti­cal Order Path.
+33	Low­est Com­mon Ances­tor in a Binary Tree (Not Binary Search Tree).
+32	Low­est Com­mon Ances­tor in a Binary Search Tree.
+31	Make a Binary Tree from Given Inorder and Pre­order Trav­eral.
+30	Given a binary tree, find out the max­i­mum sum of value from root to each leaf.
+29	Reverse Alter­nate lev­els of a given Binary Tree.
+28	Given a Sorted Singly Linked List Array, Con­vert it into a Bal­anced Binary search Tree.
+27	Given a binary tree, Con­vert it into its Mir­ror Tree
+26	Given a binary tree, Print All the Nodes that don’t have Sib­lings.
+25	Con­vert a Sorted Dou­bly Linked List to Bal­anced BST.
+24	Given a binary tree, Find the Max­i­mum Path Sum between Any Two Leaves
+23	Print Left View of a given binary tree
+22	Print Right View of a given binary tree
+21	In a Binary Tree, Check if Two nodes has the same par­ent or are sib­lings
+20	In a Binary Tree, Check if two nodes are Cousins
+19	Check if Two BST’s are Iden­ti­cal
+18	Print Paths from root to all leaf nodes in a binary tree.
+17	Print All Nodes Between Two Given Lev­els
+16	Find the max­i­mum width of a binary tree
+15	Level Order Tra­ver­sal in Zig Zag pat­tern OR Print in Spi­ral Pat­tern
+14	Deter­mine whether given binary tree is binary search tree(BST) or not
+13	Find the Size of the Binary Tree
+12	Given two binary trees, check if one binary tree is a sub­tree of another
+11	Print a path from Root to Node in Binary Tree
+10	Inorder Suc­ces­sor in Binary Search Tree with­out Using Par­ent link
+9	Inorder Suc­ces­sor in Binary Search Tree Using Par­ent link
+8	Inorder Suc­ces­sor in Binary Tree
+7	Sorted Array to Binary Search Tree of Min­i­mal Height
+6	In a Binary Tree, Cre­ate Linked Lists of all the nodes at each depth.
+5	Level Order Tra­ver­sal, Print each level in sep­a­rate line.
+4	Find whether if a Given Binary Tree is Bal­anced?
+3	Get the Height of a Node in a Binary Tree
+2	Find the Max­i­mum Depth OR Height of a Binary Tree
+1	Binary Search Tree Com­plete Imple­men­ta­tion.
+
+
+Linked List
+26	Cir­cu­lar Linked List Com­plete Implementation
+25	Dou­bly Linked List Com­plete Implementation
+24	Imple­ment Stack Using Linked List
+23	Reverse Alter­na­tive ‘k’ nodes in a Linked List.
+22	Swap Nodes in pairs in a Linked List by chang­ing links
+21	Reverse a Linked List in groups of given size ‘K’
+20	Reverse The Dou­bly Linked List
+19	Swap Kth Node from the front with the Kth Node from the End
+18	Delete X Nodes After Y Nodes In a Linked List
+17	Merge Sort in a Linked list
+16	Merge a Linked list into another Linked List at Alter­nate Posi­tions.
+15	Given a Sorted Singly Linked List Array, Con­vert it into a Bal­anced Binary search Tree.
+14	Con­vert a Sorted Dou­bly Linked List to Bal­anced BST.
+13	In a Binary Tree, Cre­ate Linked Lists of all the nodes at each depth.
+12	Add two num­bers rep­re­sented by a linked list, Num­bers are Stored in FORWARD order
+11	Add two num­bers rep­re­sented by a linked list, Num­bers are Stored in REVERSE order
+10	Reverse a Linked List — Part 2
+9	Swap Every Kth Node in a LinkedList
+8	Delete a Node in the Mid­dle of a linked list, Given only access to that Node
+7	To find the kth to Last Ele­ment of a Singly Linked List
+6	Remove Dupli­cates from an Unsorted Linked list
+5	Find Inter­sec­tion Point in Two Linked List
+4	Find the Loop in a Linked list, find its length and Break the Loop
+3	Reverse a Linked List
+2	Merge or Com­bine Two Sorted Linked Lists
+1	Singly Linked List Imple­men­ta­tion
+
+Arrays
+74	Stock Sin­gle Sell Prob­lem — O(n) Solution
+73	Max­i­mum Sub­ar­ray OR Largest Sum Con­tigu­ous Sub­ar­ray Prob­lem – Divide and Conquer
+72	Max­i­mum dif­fer­ence between two ele­ments where larger ele­ment appears after the smaller element
+71	Find the two repeat­ing ele­ments in a given array | 6 Approaches
+70	Find two ele­ments whose sum is clos­est to zero
+69	Find the ele­ment which appears max­i­mum num­ber of times in the array.
+68	Find dupli­cates in an given array in O(n) time and O(1) extra space
+67	Find the last non repeat­ing char­ac­ter in a given string
+66	Find the last repeat­ing char­ac­ter in a given string
+65	Find the first non repeat­ing char­ac­ter in a given string
+64	Find the first repeat­ing char­ac­ter in a given string
+63	Find longest Snake sequence in a given matrix
+62	Count all paths in 2D Matrix with Obstruc­tions in it
+61	Count all paths from top left to bot­tom right of a mXn matrix
+60	Reverse the given Array with­out using built in function
+59	Print All Diag­o­nals of a given matrix
+58	Kadane’s Algo­rithm — Max­i­mum Sub­ar­ray Problem
+57	Short­est Range in K-sorted Lists
+56	Gen­er­ate Max­i­mum rev­enue by sell­ing K tick­ets from N windows
+55	Print All Pos­si­ble Sub­sets with Sum equal to a given Num­ber
+55	Print All N Length Strings from Given Num­ber K
+54	Gen­er­ate Well Ordered Pass­words of a Given Length K
+53	All N Length Strings from Given String of Length K
+52	Find the Kth Smallest/Largest Ele­ment in an Array
+51	Pri­or­ity Queue Imple­men­ta­tion
+50	Merge K Sorted Arrays
+49	Find a Miss­ing Num­ber From a Sequence of Con­sec­u­tive Num­bers | XOR Method
+48	Rearrange the Array of Given Range N, such that A[i]=i
+47	Find a Num­ber occur­ring odd num­ber of times in a Given array
+46	Binary Min — Max Heap
+45	Magic Index — Find Index In Sorted Array Such That A[i] = i.
+44	Print All Com­bi­na­tions of sub­set of size K from Given Array
+43	Print All the Sub­sets of a Given Set (Power Set)
+42	Con­struct a Spe­cial Tri­an­gle from a Given Array
+41	Find Increas­ing Triplet Sub-sequence
+40	Track the Max­i­mum Ele­ment in a Stack.
+39	Print All Pos­si­ble Valid Com­bi­na­tions Of Paren­the­sis of Given ‘N’
+38	Count­ing Sort
+37	Tow­ers Of Hanoi
+36	Find The Miss­ing Dupli­cate in a Given Array.
+35	Sort 3 Inte­gers with­out using if con­di­tion OR use only Max() func­tion.
+34	Euclid­ean algo­rithm — Great­est Com­mon Divisor(GCD)
+33	Imple­ment Queue Using Stacks
+32	Depth First Search/Traversal in Binary Tree
+31	Check if Array is Con­sec­u­tive Inte­gers
+30	In an Array, find the Con­tigu­ous Sub­ar­ray with Sum to a Given Value.
+29	In an Array, find the Small­est Sub­ar­ray with Sum Greater than the Given Value
+28	Rearrange Pos­i­tive and Neg­a­tive Ele­ments at Alter­nate Posi­tions in an Array In O(1) Extra Space
+27	Find inter­sec­tion between Two Sorted Arrays.
+26	Find Kth Small­est or Largest ele­ment in an Array.
+25	Given an array arrA[], find the max­i­mum j – i such that arr[j] > arr[i].
+24	Find All Ele­ments in an Array which appears more than N/K times, N is Array Size and k is a Num­ber.
+23	Search an Ele­ment in a Rotated Sorted Array
+22	Print All The Per­mu­ta­tions Of a String
+21	Sort an Given Array in the order defined by another array
+20	Sort an Array such that the odd num­bers appear first fol­lowed by the even num­bers . The odd num­bers in ascend­ing order and the even num­bers in descend­ing order.
+19	Find the num­ber of occur­rences of a num­ber in a given sorted array.
+18	Find all com­mon num­bers in given three sorted arrays.
+17	Find the first repeated ele­ment in an array by its index
+16	Min­i­mum num­ber that can­not be formed by any sub­set of an array
+15	Sorted Array to Binary Search Tree of Min­i­mal Height
+14	Count All Paths from Top left to bot­tom right in Two Dimen­sional Array includ­ing Diag­o­nal Paths
+13	Print All Paths from Top left to bot­tom right in Two Dimen­sional Array
+12	Rearrange Pos­i­tive and Neg­a­tive Num­bers of Array On Each Side in O(nlogn)
+11	Find The Longest Sequence Of Pre­fix Shared By All The Words In A String
+10	Print All Ele­ments of Two Dimen­sional Array in Spi­ral
+9	Given an array and a num­ber k, check for pair in array with sum as k in O(nlgn)
+8	Quick Sort Imple­men­ta­tion
+7	Find an Ele­ment in 2 dimen­sional sorted array
+6	Find Whether Given String is palin­drome or Not.
+5	Find a peak ele­ment in a Given Array
+4	Find two Miss­ing Num­bers in a Sequence of Con­sec­u­tive Num­bers
+3	Find a Miss­ing Num­ber From a Sequence of Con­sec­u­tive Num­bers
+2	Merge Sort — Updated — Most Effi­cient ways to Imple­ment
+1	Binary Search
+
+Strings
+11	Sort Names by their Last Names.
+10	Print All Pos­si­ble Valid Com­bi­na­tions Of Paren­the­sis of Given ‘N’
+9	Gen­er­ate All Strings of n bits.
+8	Print All The Per­mu­ta­tions Of a String
+7	Check if one string is Rota­tion of another string
+6	String Com­pres­sion using count of repeated char­ac­ters — Run Length Encod­ing
+5	Replace all spaces in a String with ‘%20′
+4	Find Whether Two Strings are Per­mu­ta­tion of each other
+3	Find The Longest Sequence Of Pre­fix Shared By All The Words In A String
+2	Find Out Whether String Con­tains All The Unique Char­ac­ters
+1	Find Whether Given Sequence of paren­the­ses are well formed.
+
+Bit Manip­u­la­tion
+9	Reverse the binary rep­re­sen­ta­tion of a num­ber.
+8	Find The Miss­ing Dupli­cate in a Given Array
+7	Gen­er­ate All Strings of n bits.
+6	Find a Miss­ing Num­ber From a Sequence of Con­sec­u­tive Num­bers | XOR Method
+5	Find a Num­ber occur­ring odd num­ber of times in a Given array
+4	Find the right most set bit of a num­ber
+3	Find the two repeat­ing ele­ments in a given array | 6 Approaches
+2	Find the right most unset bit OR zero bit of a num­ber
+1	Num­ber of 1’s in bit rep­re­sen­ta­tion of a num­ber
+
+MISC
+5	Find num­bers which are palin­drome in both their dec­i­mal and octal Rep­re­sen­ta­tions
+4	Col­or­ful Num­bers
+3	Goldbach’s Con­jec­ture
+2	Con­vert Dec­i­mal into Irre­ducible Frac­tion
+1	Clock Angle Prob­lem
